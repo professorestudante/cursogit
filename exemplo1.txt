@@ -2,4 +2,4 @@ Este é um exemplo de uso do Git.
 Criando a primeira modificação no arquivo.
 Criando uma segunda modificação sem adicionar ao git.
 Criando uma quinta modificação no arquivo.
-Criando outra linha que será apagada.
+Criando uma linha que permanecera
