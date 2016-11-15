@@ -1,1 +1,3 @@
 Este é um exemplo de uso do Git.
+Criando a primeira modificação no arquivo.
+Criando uma segunda modificação sem adicionar ao git.
