@@ -1,5 +1,5 @@
-Este é um exemplo de uso do Git.
-Criando a primeira modificação no arquivo.
-Criando uma segunda modificação sem adicionar ao git.
-Criando uma quinta modificação no arquivo.
+Este e um exemplo de uso do Git.
+Criando a primeira modificacao no arquivo.
+Criando uma segunda modificacao sem adicionar ao git.
+Criando uma quinta modificacao no arquivo.
 Criando uma linha que permanecera
